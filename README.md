@@ -12,7 +12,7 @@
   <a href="https://www.linkedin.com/in/akshara-khaire-a66810213/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="https://github.com/aksharakhaire](https://github.com/Akshara-Khaire">
+  <a href="https://github.com/Akshara-Khaire">
     <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
   </a>
   <a href="mailto:aksharakhaire.csv@gmail.com">
