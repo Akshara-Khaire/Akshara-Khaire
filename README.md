@@ -1,11 +1,11 @@
 <h1 align="center"> 🌟 Akshara Khaire </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&vCenter=true&multiline=true&width=650&lines=Data+Analyst+%7C+Power+BI+Developer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=000000¢er=true&vCenter=true&multiline=true&width=650&lines=Data+Analyst+%7C+Power+BI+Developer" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=000000¢er=true&vCenter=true&multiline=true&width=650&lines=Python+%7C+SQL+%7C+PostgreSQL+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=000000&vCenter=true&multiline=true&width=650&lines=Python+%7C+SQL+%7C+PostgreSQL+Enthusiast" />
 </p>
 
 <p align="center">
